@@ -1,7 +1,7 @@
 Wizucash integration/staging tree
 ================================
 
-http://www.wizucash.org
+http://www.wizucash.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Wizucash Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Wizucash client sofware, see http://www.wizucash.org.
+the Wizucash client sofware, see http://www.wizucash.com.
 
 License
 -------
@@ -71,5 +71,6 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./wizucash-qt_test
 
+# wizucash
 # wizucash
 # wizucash
