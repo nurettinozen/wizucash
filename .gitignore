@@ -1,0 +1,34 @@
+src/*.exe
+src/wizucash
+src/wizucashd
+src/test_wizucash
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.wizucash
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+wizucash-qt
+Wizucash-Qt.app
+
+# Unit-tests
+Makefile.test
+wizucash-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
